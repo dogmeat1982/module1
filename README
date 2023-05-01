@@ -1,0 +1,5 @@
+Modulee1
+
+package module1 // import "github.com/dogmeat1982/module1"
+
+func One() int
